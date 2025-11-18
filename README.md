@@ -1,4 +1,4 @@
-# Homelab Portfolio – Filip Møldrup Pedersen
+# Homelab Portfolio
 
 ## Overview
 This homelab is my personal environment for learning real-world IT operations: Linux administration, Docker, networking, DNS, VLANs and security.  
